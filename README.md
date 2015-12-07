@@ -1,2 +1,4 @@
-# vimrc
-vim基本配置，多种语法检查，高级命令等
+Vimrc
+=========
+
+My own vim rc .
